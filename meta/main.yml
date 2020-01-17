@@ -1,0 +1,25 @@
+---
+dependencies: []
+
+galaxy_info:
+  role_name: packer-rhel
+  author: jlim0930
+  description: RedHat/CentOS configuration for Packer.
+  company: "JRSERV"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.4
+  platforms:
+    - name: EL
+      versions:
+      - 7
+      - 8
+  galaxy_tags:
+    - system
+    - packaging
+    - development
+    - packer
+    - rhel
+    - centos
+    - fedora
+    - redhat
+    - el
